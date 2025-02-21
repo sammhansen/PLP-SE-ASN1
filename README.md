@@ -50,7 +50,7 @@
       - system testing – evaluates the entire system to verify it meets requirements
       - acceptance testing – ensures the software meets user needs before release
 
-
+<br>
 
 **PART2: INTRODUTION TO AI AND PROMPT ENGINEERING**
 
