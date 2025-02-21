@@ -1,4 +1,4 @@
---  INTRODUCTION TO SOFTWARE ENGINEERING
+- **INTRODUCTION TO SOFTWARE ENGINEERING**
   - **Explain what software engineering is and discuss its importance in the technology industry**
     - Software engineering is the process of designing, developing, testing, and maintaining software using engineering principles
        - **Importance of Software Engineering**
@@ -25,11 +25,11 @@
       
 
   - **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
-    - waterfall
+    - **waterfall**
        - linear, rigid, detailed planning, feedback at the end, hard to change, full delivery at once
-    - agile
+    - **agile**
        - iterative, flexible, continuous planning, frequent feedback, easy to change, small releases
-    - when to use which
+    - **when to use which**
        - use waterfall for fixed-scope projects like banking or government systems
        - use agile for dynamic projects like mobile apps or startups
      
