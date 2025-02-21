@@ -51,7 +51,9 @@
       - acceptance testing – ensures the software meets user needs before release
 
 
+
 **PART2: INTRODUTION TO AI AND PROMPT ENGINEERING**
+
   1. **Define prompt engineering and discuss its importance in interacting with AI models**
        - prompt engineering is the practice of crafting effective queries to get accurate and useful responses from ai models
          - **importance**
