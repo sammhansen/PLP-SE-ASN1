@@ -9,12 +9,13 @@
            
       
   2. **Identify and describe at least three key milestones in the evolution of software engineering**
-    - 1968: The Birth of Software Engineering which addressed the lack of a well-structured development approach
-    - 1970s: Introduction of the Waterfall Model by Winston Royce which offered a step by step approach for development
-    - 2001: The Agile Manifesto which fixed a few issues with the waterfall model
+   
+      - 1968: The Birth of Software Engineering which addressed the lack of a well-structured development approach
+      - 1970s: Introduction of the Waterfall Model by Winston Royce which offered a step by step approach for development
+      - 2001: The Agile Manifesto which fixed a few issues with the waterfall model
       
 
-  3. **List and briefly explain the phases of the Software Development Life Cycle**
+  4. **List and briefly explain the phases of the Software Development Life Cycle**
     - planning – define project goals, scope, and feasibility
     - requirements analysis – gather and document user needs
     - design – create architecture ui and database structures
@@ -24,7 +25,7 @@
     - maintenance – provide updates and fix issues over time
       
 
-  4. **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
+  5. **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
     - **waterfall**
        - linear, rigid, detailed planning, feedback at the end, hard to change, full delivery at once
     - **agile**
@@ -34,7 +35,7 @@
        - use agile for dynamic projects like mobile apps or startups
      
       
-  5. **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team**
+  6. **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team**
     - software developer – writes code, implements features, fixes bugs, and optimizes performance
     - quality assurance engineer – tests software, finds bugs, ensures quality, and improves reliability
     - project manager – plans tasks, manages timelines, coordinates teams, and ensures project success
