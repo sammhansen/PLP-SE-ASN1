@@ -16,26 +16,26 @@
       
 
   4. **List and briefly explain the phases of the Software Development Life Cycle**
-    - planning – define project goals, scope, and feasibility
-    - requirements analysis – gather and document user needs
-    - design – create architecture ui and database structures
-    - implementation – write and develop the software
-    - testing – identify and fix bugs to ensure quality
-    - deployment – push the software to production
-    - maintenance – provide updates and fix issues over time
+      - planning – define project goals, scope, and feasibility
+      - requirements analysis – gather and document user needs
+      - design – create architecture ui and database structures
+      - implementation – write and develop the software
+      - testing – identify and fix bugs to ensure quality
+      - deployment – push the software to production
+      - maintenance – provide updates and fix issues over time
       
 
   5. **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
-    - **waterfall**
-       - linear, rigid, detailed planning, feedback at the end, hard to change, full delivery at once
-    - **agile**
-       - iterative, flexible, continuous planning, frequent feedback, easy to change, small releases
-    - **when to use which**
-       - use waterfall for fixed-scope projects like banking or government systems
-       - use agile for dynamic projects like mobile apps or startups
+      - **waterfall**
+         - linear, rigid, detailed planning, feedback at the end, hard to change, full delivery at once
+      - **agile**
+         - iterative, flexible, continuous planning, frequent feedback, easy to change, small releases
+      - **when to use which**
+         - use waterfall for fixed-scope projects like banking or government systems
+         - use agile for dynamic projects like mobile apps or startups
      
       
   6. **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team**
-    - software developer – writes code, implements features, fixes bugs, and optimizes performance
-    - quality assurance engineer – tests software, finds bugs, ensures quality, and improves reliability
-    - project manager – plans tasks, manages timelines, coordinates teams, and ensures project success
+      - software developer – writes code, implements features, fixes bugs, and optimizes performance
+      - quality assurance engineer – tests software, finds bugs, ensures quality, and improves reliability
+      - project manager – plans tasks, manages timelines, coordinates teams, and ensures project success
